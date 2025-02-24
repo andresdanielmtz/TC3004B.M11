@@ -13,5 +13,5 @@ Each repository has it's own `README.md` file which includes a detail descriptio
 We saw about the basics of RESTful APIs using Springboot. That includes GET & POST methods as well as url params for GET requests.
 That includes repositories `spring` and `restexample`.
 
-## Class 1.5 
-After class, we made some changes for both `spring` and `restexample` repositories.
+## Exercise 1
+In order to fulfill with these repositories, `restexample` was modified and `order` repository was created in order to create a microservice for the `restexample` repository.
