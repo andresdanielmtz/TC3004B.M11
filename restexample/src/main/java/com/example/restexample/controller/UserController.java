@@ -18,7 +18,7 @@ import com.example.restexample.model.User;
 @RequestMapping("/users")
 public class UserController {
 
-    public Map<Long, User> userDatabase = new HashMap();
+    public Map<Long, User> userDatabase = new HashMap<>();
 
     @PostMapping("/register")
     public ResponseEntity<User> registerUser(@RequestBody User user) {
