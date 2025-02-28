@@ -15,3 +15,5 @@ That includes repositories `spring` and `restexample`.
 
 ## Exercise 1
 In order to fulfill with these repositories, `restexample` was modified and `order` repository was created in order to create a microservice for the `restexample` repository.
+
+## Class 2 
