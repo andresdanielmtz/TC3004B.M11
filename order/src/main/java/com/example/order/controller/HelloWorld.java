@@ -11,5 +11,4 @@ public class HelloWorld {
     public ResponseEntity<String> helloWorld(){
         return ResponseEntity.ok("Hello World, Order");
     }
-    
 }
